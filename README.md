@@ -1,3 +1,3 @@
-- 👋 Hi there, I'm George Kontogiannis. I'm a PhD candidate in Generative AI and researcher at the IoT Laboratory of the University of Patras.
+- 👋 Hi there, I'm George Kontogiannis. I'm a PhD candidate in AI and researcher at the IoT Laboratory of the University of Patras.
 - 👯 I'd love to collaborate on building an open-source ML software/library that can simplify complex machine learning tasks and empower developers to create intelligent applications with ease.
 - 📫 To connect or chat about all things software, you can reach me via email at [g.kontogiannis@ac.upatras.gr](mailto:g.kontogiannis@ac.upatras.gr) or through my [LinkedIn](https://www.linkedin.com/in/george-kontogiannis/) profile.
